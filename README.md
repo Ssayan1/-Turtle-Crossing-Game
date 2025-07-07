@@ -10,7 +10,7 @@ A simple arcade-style game built with Python's Turtle graphics, inspired by the 
 
 ## 🛠️ How to Run
 1. Clone the repository:
-   - git clone https://github.com/Ssyan/turtle-crossing-Game.git
+   - [git clone https://github.com/Ssyan/turtle-crossing-Game.git](https://github.com/Ssayan1/-Turtle-Crossing-Game)
 
 2. Run the game:
 3. # cd turtle-crossing
